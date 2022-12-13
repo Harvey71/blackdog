@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 3544 3544" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Bottom">
+        <g id="Engraving">
+            <g transform="matrix(1,-1.73205,1.73205,1,-2878.91,6859.51)">
+                <path d="M3720.47,480.709C3720.47,448.115 3694.01,421.654 3661.42,421.654L3543.31,421.654C3510.71,421.654 3484.25,448.115 3484.25,480.709L3484.25,598.819C3484.25,631.412 3510.71,657.874 3543.31,657.874L3661.42,657.874C3694.01,657.874 3720.47,631.412 3720.47,598.819L3720.47,480.709Z" style="fill:none;stroke:black;stroke-width:2.08px;"/>
+            </g>
+            <g transform="matrix(-0.697596,-2.60346,1.70415,-0.456625,1431.07,9561.06)">
+                <path d="M2824.8,1144.06C2824.8,1110.81 2807.13,1083.81 2785.36,1083.81L2566.26,1083.81C2544.49,1083.81 2526.82,1110.81 2526.82,1144.06C2526.82,1177.31 2544.49,1204.31 2566.26,1204.31L2785.36,1204.31C2807.13,1204.31 2824.8,1177.31 2824.8,1144.06Z" style="fill:none;stroke:black;stroke-width:1.83px;"/>
+            </g>
+            <g transform="matrix(0.532151,-0.921712,0.921712,0.532151,-736.29,4173.68)">
+                <circle cx="3188.98" cy="421.654" r="110.974" style="fill:none;stroke:black;stroke-width:3.91px;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Top">
+    </g>
+</svg>
