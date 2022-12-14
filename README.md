@@ -29,7 +29,7 @@ Parts list:
 | basswood 3mm A3 | 3 pcs | https://www.amazon.de/gp/product/B078W5MLT4 (10 pcs) |
 | game pieces 24x12mm | 4 sets | https://www.amazon.de/gp/product/B0088I7Y96 (10 sets) |
 | foil 0,3mm A3 | 1 pcs | https://www.amazon.de/gp/product/B08961ZN3Q (5 pcs) |
-/ brass pipe ∅6mm | 9mm | hardware store |
+| brass pipe ∅6mm | 9mm | hardware store |
 | foam foil bags 30x30cm | 5 pcs | https://www.amazon.de/gp/product/B09S6CVXZP (50 pcs) |
 | acrylic paint set | 1 | https://www.amazon.de/gp/product/B00IA1RSHO |
 | neodynium magnets 3x2mm | 6 | https://www.amazon.de/gp/product/B07JHT1B9W (50 pcs) |
