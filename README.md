@@ -16,8 +16,9 @@ cards or the manual, since I do not want to damage the original manufacturer. Th
 currently (2022) not available for sale. BTW: If you follow the video, then you will come with a compound variant for
 four and six players in one box. :-)
 
-Nevertheless, I think my version is also an improvement in appearance and handling. For example I use small magnets,
-so that the turntable will snap into one of the six correct positions.
+Nevertheless, I think my version is also an improvement in appearance and handling. For example, I use small magnets,
+so that the turntable will snap into one of the six correct positions. Also, the pieces will not have to slide/scratch
+over the baseplate, since I added an extra sliding foil to the turntable.
 
 Parts list:
 
