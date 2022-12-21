@@ -34,7 +34,7 @@ Parts list:
 | acrylic paint set | 1 | https://www.amazon.de/gp/product/B00IA1RSHO |
 | neodynium magnets 3x2mm | 6 | https://www.amazon.de/gp/product/B07JHT1B9W (50 pcs) |
 | headless screws M4x4mm | 6 | https://www.amazon.de/gp/product/B093ML12KY (20 pcs) |
-| Snapmaker A350T with 10W laser module ;-) | 1 | https://eu.snapmaker.com |
+| masking paper | 2m | https://www.amazon.de/gp/product/B07HRSVR98 (50m) |
 
 *: These are not affiliate links, so I do not benefit from you clicking them. They are example links from
 Amazon Germany, but feel free to buy anywhere else.
